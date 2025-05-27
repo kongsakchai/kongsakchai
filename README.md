@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I'm Sakchai Paoin { Kong }
+# I'm Sakchai Paoin [Kong]
 
 - ❤️ I love programing
 - 🔥 I never stop learning new things.

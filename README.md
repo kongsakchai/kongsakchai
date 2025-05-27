@@ -8,4 +8,6 @@
 
 ---
 
-![kongsakchai's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kongsakchai&theme=default&show_icons=true&hide_border=true&layout=compact)
+<center>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongsakchai&theme=default&show_icons=true&hide_border=true&layout=compact"/>
+</center>

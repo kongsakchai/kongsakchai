@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I'm Sakchai Paoin [Kong]
+# I'm Sakchai Paoin (Kong)
 
 - ❤️ I love programing
 - 🔥 I never stop learning new things.
@@ -8,6 +8,4 @@
 
 ---
 
-<center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongsakchai&theme=default&show_icons=true&hide_border=true&layout=compact"/>
-</center>
+![kongsakchai's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kongsakchai&theme=default&show_icons=true&hide_border=true&layout=compact)
